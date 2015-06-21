@@ -1,10 +1,11 @@
 #Detail of tidy_data_set
 
 ##Content
-There are 180 rows and 68 columns
-There are 30 unique Subject (1-30)
-There are 6 unique Activity (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
-The tidy_data_set contains average of following columns (3-68) group by Subject and Activity
+1. There are 180 rows and 68 columns
+2. There are 30 unique Subject (1-30)
+3. There are 6 unique Activity (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
+4. The tidy_data_set contains average of following columns (3-68) group by Subject and Activity
+ 
  [1] "Subject"                     "Activity"                    "tBodyAcc-mean()-X"           "tBodyAcc-mean()-Y"          
  [5] "tBodyAcc-mean()-Z"           "tGravityAcc-mean()-X"        "tGravityAcc-mean()-Y"        "tGravityAcc-mean()-Z"       
  [9] "tBodyAccJerk-mean()-X"       "tBodyAccJerk-mean()-Y"       "tBodyAccJerk-mean()-Z"       "tBodyGyro-mean()-X"         
