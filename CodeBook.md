@@ -1,4 +1,6 @@
-##tidy_data_set
+#Detail of tidy_data_set
+
+##Content
 There are 180 rows and 68 columns
 There are 30 unique Subject (1-30)
 There are 6 unique Activity (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
