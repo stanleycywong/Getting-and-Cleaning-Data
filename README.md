@@ -7,11 +7,11 @@
 4. Read features and activity_labels
 5. Rename the column names of activity_labels data set
 6. Rename the column names of train_test data set
-7. join activity_labels and train_test data by ActivityId = Activity to get Activity label
-8. select Subject, Activity, columns contains "mean()" or contains "std()"
-9. group train_test_mean_std data by Subject and Activity
-10. calculate the average value of all columns broken down by Subject and Activity
-11. export the tidy_data_set into txt file
+7. Join activity_labels and train_test data by ActivityId = Activity to get Activity label
+8. Select Subject, Activity, columns contains "mean()" or contains "std()"
+9. Group train_test_mean_std data by Subject and Activity
+10. Calculate the average value of all columns broken down by Subject and Activity
+11. Export the tidy_data_set into txt file
 
 
 ##Project Instruction:
